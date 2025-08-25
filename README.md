@@ -1,18 +1,34 @@
-## Getting Started
+<h1>
+    <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
+    <span> DIO - Bootcamp GFT #7 Java </span>
+</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Resolução de exercícios e desafios do bootcamp [GFT Start #7 - Java da DIO](https://web.dio.me/track/gft-start-7-java)
 
-## Folder Structure
+-> Clique nas 🚩 para ser redirecionado para o código de resolução do exercício correspondente.
 
-The workspace contains two folders by default, where:
+-> A pasta ["DIO-exercicios-Java-basico"](./DIO-exercicios-Java-basico/) contém o material original de questões ["exercicios-java-basico"](https://github.com/digitalinnovationone/exercicios-java-basico)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+-> A pasta [./src]() contém todas as resoluções, desde exercicios e projetos.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Exercícios
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+[Exercícios - DIO](./DIO-exercicios-Java-basico/exercicios/)             | Resoluções                                |
+--------------------------------------------------------------|:-----------------------------------------:|
+1 - Fundamentos da Linguagem de Programação Java              |[🚩](./src/exercicios/FundamentosJava.java)
+2 - Estruturas de Controle em Java                            |[🚩](./src/exercicios/EstruturasDeControle.java)
+3 - Java e a Arte da Abstração com Classes e Encapsulamento   |[🚩](./src/exercicios/AbstracaoEncapsulamento.java)
+4 - Herança e Polimorfismo em Java                            |[🚩](./src/exercicios/HerancaPolimorfismo.java)
+5 - Dominando Interfaces e Lambda em Java                     |[🚩](./src/exercicios/InterfaceLambda.java)
+6 - Praticando com Collections e Outras Classes Úteis do Java |[🚩](./src/exercicios/CollectionsClasses.java)
 
-## Dependency Management
+## Projetos
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[Projetos - DIO](./DIO-exercicios-Java-basico/projetos/)             | Resoluções                                |
+--------------------------------------------------------------|:-----------------------------------------:|
+1 - Fundamentos da Linguagem de Programação Java              |[🚩](./src/exercicios/FundamentosJava.java)
+2 - Estruturas de Controle em Java                            |[🚩](./src/exercicios/EstruturasDeControle.java)
+3 - Java e a Arte da Abstração com Classes e Encapsulamento   |[🚩](./src/exercicios/AbstracaoEncapsulamento.java)
+4 - Herança e Polimorfismo em Java                            |[🚩](./src/exercicios/HerancaPolimorfismo.java)
+5 - Dominando Interfaces e Lambda em Java                     |[🚩](./src/exercicios/InterfaceLambda.java)
+6 - Praticando com Collections e Outras Classes Úteis do Java |[🚩](./src/exercicios/CollectionsClasses.java)
