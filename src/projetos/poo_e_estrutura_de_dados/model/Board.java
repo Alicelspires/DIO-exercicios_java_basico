@@ -1,12 +1,12 @@
-package projetos.sudoku.model;
+package projetos.poo_e_estrutura_de_dados.model;
 
 import java.util.Collection;
 import java.util.List;
 import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
-import static projetos.sudoku.model.GameStatusEnum.COMPLETE;
-import static projetos.sudoku.model.GameStatusEnum.INCOMPLETE;
-import static projetos.sudoku.model.GameStatusEnum.NON_STARTED;
+import static projetos.poo_e_estrutura_de_dados.model.GameStatusEnum.COMPLETE;
+import static projetos.poo_e_estrutura_de_dados.model.GameStatusEnum.INCOMPLETE;
+import static projetos.poo_e_estrutura_de_dados.model.GameStatusEnum.NON_STARTED;
 
 public class Board {
 
