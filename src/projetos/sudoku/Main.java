@@ -1,4 +1,4 @@
-package projetos.poo_estrutura_de_dados;
+package projetos.sudoku;
 
 import java.util.Scanner;
 import java.util.ArrayList;
@@ -6,13 +6,13 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Stream;
 
-import projetos.poo_estrutura_de_dados.model.Board;
-import projetos.poo_estrutura_de_dados.model.Space;
+import projetos.sudoku.model.Board;
+import projetos.sudoku.model.Space;
 
 import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
 import static java.util.stream.Collectors.toMap;
-import static projetos.poo_estrutura_de_dados.util.BoardTemplate.BOARD_TEMPLATE;
+import static projetos.sudoku.util.BoardTemplate.BOARD_TEMPLATE;
 
 
 public class Main {

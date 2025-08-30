@@ -1,4 +1,4 @@
-package projetos.poo_estrutura_de_dados.util;
+package projetos.sudoku.util;
 
 public final class BoardTemplate {
 

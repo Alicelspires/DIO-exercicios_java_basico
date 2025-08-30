@@ -1,4 +1,4 @@
-package projetos.poo_estrutura_de_dados.model;
+package projetos.sudoku.model;
 
 public class Space {
 

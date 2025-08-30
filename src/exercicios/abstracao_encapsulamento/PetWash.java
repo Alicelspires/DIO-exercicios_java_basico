@@ -20,6 +20,7 @@ public class PetWash {
         this.water -= 10;
         this.shampoo -= 2;
         this.pet.setClean(true);
+        System.out.println("O pet esta limpo!, retire o pet da maquina");
         return true ;
     }
 
